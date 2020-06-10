@@ -1,6 +1,6 @@
 {
   "name": "@parsify/core-helpers",
-  "version": "0.0.2",
+  "version": "0.0.2-fixbuild1",
   "description": "Bunch of @parsify/core helpers, written in Rust",
   "main": "lib/index.js",
   "author": "Antoni Kepinski <a@kepinski.me> (https://kepinski.me)",
@@ -11,6 +11,7 @@
   },
   "files": [
     "native/index.node",
+    "native/Cargo.toml",
     "lib"
   ],
   "dependencies": {
