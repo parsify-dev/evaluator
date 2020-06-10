@@ -1,6 +1,6 @@
 {
   "name": "@parsify/core-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bunch of @parsify/core helpers, written in Rust",
   "main": "lib/index.js",
   "author": "Antoni Kepinski <a@kepinski.me> (https://kepinski.me)",
