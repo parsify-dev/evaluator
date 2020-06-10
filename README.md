@@ -1,3 +1,0 @@
-# core-rs
-
-Parsify core
