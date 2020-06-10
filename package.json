@@ -10,7 +10,7 @@
     "url": "git+https://github.com/parsify-dev/core-helpers.git"
   },
   "files": [
-    "native",
+    "native/index.node",
     "lib"
   ],
   "dependencies": {
