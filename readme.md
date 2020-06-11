@@ -1,8 +1,8 @@
-# Parsify Core Helpers
+# Evaluator
 
-> Bunch of @parsify/core helpers, powered by Rust and WASM.
+> Experimental expression evaluator for [@parsify/math](https://github.com/parsify-dev/math), powered by Rust & WASM.
 
-[![Build Status](https://travis-ci.com/parsify-dev/core-helpers.svg?branch=master)](https://travis-ci.com/parsify-dev/core-helpers)
+[![Build Status](https://travis-ci.com/parsify-dev/evaluator.svg?branch=master)](https://travis-ci.com/parsify-dev/evaluator)
 
 ## Development
 
